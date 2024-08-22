@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Undergraduate student in Computer Science at KAIST 
 
-<br><br>
+<br>
 
 Research Interests
 ======
@@ -18,14 +18,14 @@ Research Interests
 * Accelerated Systems for AR/VR/MR/XR
 * AI Acceleration on Edge Devices
 
-<br><br>
+<br>
 
 Education
 ======
 ------
 * Mar. 2019 - present: Undergraduate in Computer Science & Minor in Chemical and Biomolecular Engineering, KAIST
 
-<br><br>
+<br>
 
 Experiences
 ======
@@ -33,7 +33,7 @@ Experiences
 * Dec. 2023 - present: Undergraduate Student Intern, CASYS Lab (Prof. Jongse Park)
 * Jun. 2023 - Aug. 2023: Summer Intern, Tech team, Lucentblock
 
-<br><br>
+<br>
 
 Honors and Awards
 ======
