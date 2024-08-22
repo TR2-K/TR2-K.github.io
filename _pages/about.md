@@ -15,8 +15,9 @@ Research Interests
 ======
 ------
 * Computer Architecture
-* Accelerated Systems for AR/VR/MR/XR
 * AI Acceleration on Edge Devices
+* Accelerated Systems for AR/VR/MR/XR
+
 
 <br>
 
