@@ -39,6 +39,6 @@ Experiences
 Honors and Awards
 ======
 ------
-* 2nd place in Samsung Computer Engineering Challenge, SAIT, 2024
+* 2nd place in Samsung Computer Engineering Challenge, SAIT(Samsung Advanced Institute of Technology), 2024
 * Dean’s List, KAIST College of Engineering, Spring 2024
 * Dean’s List, KAIST College of Engineering, Spring 2020
