@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Undergraduate student in Computer Science at KAIST 
+I'm a Master Student in AI Semiconductor at KAIST advised by [Jonse Park](https://jongse-park.github.io/) and a member of [Computer Architecture and System Laboratory (CASYS)](https://casyslab.kaist.ac.kr/).
 
 <br>
 
@@ -15,8 +15,8 @@ Research Interests
 ======
 ------
 * Computer Architecture
-* AI Acceleration on Edge Devices
-* Accelerated Systems for AR/VR/MR/XR
+* Designing Flexible AI Compiler Frameworks
+* On-Device AI system
 
 
 <br>
@@ -24,15 +24,16 @@ Research Interests
 Education
 ======
 ------
-* Mar. 2019 - present: Undergraduate in Computer Science & Minor in Chemical and Biomolecular Engineering, KAIST
+* Feb. 2025 - present: M.S. in AI Semiconductor, KAIST
+* Mar. 2019 - Feb. 2025: B.S. in Computer Science & Minor in Chemical and Biomolecular Engineering, KAIST
 
 <br>
 
 Experiences
 ======
 ------
-* Dec. 2023 - present: Undergraduate Student Intern, CASYS Lab (Prof. Jongse Park)
-* Jun. 2023 - Aug. 2023: Summer Intern, Tech team, Lucentblock
+* Dec. 2023 - Feb. 2025: Undergraduate Student Intern, CASYS Lab (Prof. Jongse Park)
+* Jun. 2023 - Aug. 2023: Summer Intern, Tech team, [Lucentblock](https://lucentblock.com)
 
 <br>
 
