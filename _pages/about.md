@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master Student in AI Semiconductor at KAIST advised by [Jonse Park](https://jongse-park.github.io/) and a member of [Computer Architecture and System Laboratory (CASYS)](https://casyslab.kaist.ac.kr/).
+I'm a Master Student in AI Semiconductor at KAIST advised by [Prof. Jongse Park](https://jongse-park.github.io/) and a member of [Computer Architecture and System Laboratory (CASYS)](https://casyslab.kaist.ac.kr/).
 
 <br>
 
